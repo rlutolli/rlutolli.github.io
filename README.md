@@ -1,5 +1,7 @@
 ## rlutolli.dev
 
+## Clearly this is cloned**
+
 Personal website with minimal design and clean interactions. ⚡
 
 ## Deployment Instructions
@@ -7,7 +9,7 @@ Personal website with minimal design and clean interactions. ⚡
 ### How to Deploy to GitHub Pages
 
 1. **Create a GitHub Repository**
-   - Create a new repository on GitHub (e.g., `rlutolli.github.io` or any name you prefer)
+   - Create a new repository on GitHub (e.g., `yourusername.github.io` or any name you prefer)
    - Make it public
 
 2. **Push Your Code**
@@ -45,3 +47,4 @@ npm run dev
 # Build for production
 npm run build
 ```
+Enjoy
